@@ -22,7 +22,7 @@ function getFingerName(numberOfFinger) {
     return fingerName;
 }
 
-const fingerNumber = parseFloat(prompt("Enter temperature in Celsius:"))
+const fingerNumber = parseFloat(prompt("Enter finger number:"))
 
 let message;
 
